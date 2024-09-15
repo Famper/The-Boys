@@ -1,4 +1,4 @@
-package dr.fap.theBoysCommunity;
+package dr.fap.the_boys_community;
 
 import java.util.List;
 import java.util.Set;
