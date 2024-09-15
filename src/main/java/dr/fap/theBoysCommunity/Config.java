@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package dr.fap.theBoysCommunity;
 
 import java.util.List;
 import java.util.Set;
